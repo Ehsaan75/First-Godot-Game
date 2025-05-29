@@ -4,8 +4,6 @@
 
 A simple 2D platformer built with Godot Engine, featuring player movement, coin collection, and enemy AI.  
 
-![Game Screenshot](screenshot.png) *(add a screenshot if you have one!)*  
-
 ## Features  
 - Smooth player movement (run, jump)  
 - Coin collection with score tracking  
