@@ -1,6 +1,4 @@
-Got it! Here’s a **cleaner, more focused README** that only credits the tutorial in the "Credits" section (with the correct link) and highlights the project itself:  
 
----
 
 ```markdown
 # 2D Platformer Game  
