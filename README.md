@@ -1,6 +1,5 @@
 
 
-```markdown
 # 2D Platformer Game  
 
 A simple 2D platformer built with Godot Engine, featuring player movement, coin collection, and enemy AI.  
@@ -40,4 +39,3 @@ A simple 2D platformer built with Godot Engine, featuring player movement, coin 
 
 ## License  
 MIT (see [LICENSE](LICENSE))  
-```  
