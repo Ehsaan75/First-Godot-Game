@@ -8,7 +8,7 @@ A simple 2D platformer built with Godot Engine, featuring player movement, coin 
 - Smooth player movement (run, jump)  
 - Coin collection with score tracking  
 - Enemy patrols and collision detection  
-- Basic UI for score and health  
+- Basic UI for score
 
 ## How to Run  
 1. **Install Godot** (version 4.x) from [godotengine.org](https://godotengine.org/).  
